@@ -1,4 +1,9 @@
-# Labernum - Juego de Escape Room
+<h1> Labernum </h1>
+
+-Estado del Juego: Preview.
+
+
+# Labernum es un Juego tipo Escape Room
 
 Bienvenido a Labernum, un emocionante juego de escape room donde la aventura y la astucia se combinan para desafiar tus habilidades. Sumérgete en los misteriosos niveles de Labernum y descubre si tienes lo necesario para superar los desafíos y obtener los tesoros ocultos.
 
